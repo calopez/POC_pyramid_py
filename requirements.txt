@@ -55,7 +55,7 @@ transaction==2.4.0        # via pyramid-mailer, pyramid-tm, repoze.sendmail, zop
 translationstring==1.3    # via colander, pyramid
 urllib3==1.24.1           # via requests
 venusian==1.1.0           # via cornice, pyramid
-waitress==1.1.0
+waitress==1.4.0
 webob==1.8.4              # via pyramid
 zope.deprecation==4.3.0   # via pyramid, pyramid-jinja2
 zope.interface==4.6.0     # via pyramid, pyramid-retry, repoze.sendmail, transaction, zope.sqlalchemy
