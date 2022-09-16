@@ -22,7 +22,7 @@ iso8601==0.1.12           # via colander
 jinja2==2.10              # via pyramid-jinja2
 logutils==0.3.5           # via rainbow-logging-handler
 lxml==4.2.5               # via premailer
-mako==1.0.7               # via pyramid-mako
+mako==1.2.2               # via pyramid-mako
 markupsafe==1.1.0         # via jinja2, mako, pyramid-jinja2
 marshmallow==2.16.3
 pastedeploy==1.5.2        # via plaster-pastedeploy
