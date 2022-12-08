@@ -8,7 +8,7 @@
 argon2-cffi==18.3.0
 arrow==0.12.1
 authomatic==0.1.0.post1
-certifi==2018.10.15       # via requests
+certifi==2022.12.7       # via requests
 cffi==1.11.5              # via argon2-cffi
 chardet==3.0.4            # via requests
 colander==1.5.1
